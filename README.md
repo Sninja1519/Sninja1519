@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-## I am Just a Tester as of now.
+I am Just a Tester as of now.
+
 <!--
 **Sninja1519/Sninja1519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
